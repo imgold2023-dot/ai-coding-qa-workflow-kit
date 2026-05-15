@@ -1,6 +1,6 @@
 # PRD to Playwright QA Starter Pack 预览
 
-付费包是一套串联 AI 工作流，用于把粗略功能想法转成可进入 QA 和 Playwright 自动化规划的产品工作。
+完整包是一套串联 AI 工作流，用于把粗略功能想法转成可进入 QA 和 Playwright 自动化规划的产品工作。
 
 ## 工作流
 
@@ -50,6 +50,4 @@ Rules:
 
 先用假数据。不要把真实客户数据、生产 token、cookie、浏览器配置、银行卡、支付账号凭证或敏感信息粘贴到任何 AI 工具里。
 
-Ko-fi 链接：
-
-https://ko-fi.com/s/4a079bdd68
+当前状态：完整包暂时不可购买，收款通道调整完成后再重新开放。

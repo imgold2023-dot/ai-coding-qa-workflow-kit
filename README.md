@@ -9,12 +9,14 @@ This repo helps you review AI coding tools safely and structure a rough feature 
 Free resource:
 
 - [AI Coding Tool Safety Gate Checklist](./AI-Coding-Tool-Safety-Gate-Checklist.md)
-- [Download the free checklist on Ko-fi](https://ko-fi.com/s/1ff86f85f3)
 
 Preview:
 
 - [PRD to Playwright QA Starter Pack preview](./prd-to-playwright-preview.md)
-- [Get the full PRD to Playwright QA Starter Pack](https://ko-fi.com/s/4a079bdd68)
+
+Status:
+
+- The full pack is temporarily unavailable while the payment route is being updated.
 
 ## Why This Exists
 
@@ -61,18 +63,16 @@ Decision labels:
 - `Study only`
 - `Reject`
 
-## Paid Pack
+## Full Pack
 
-The paid `PRD to Playwright QA Starter Pack` includes:
+The full `PRD to Playwright QA Starter Pack` includes:
 
 - 10 sequenced prompts
 - 5 reusable templates
 - 1 fictional end-to-end SaaS feature example
 - English and Simplified Chinese README files
 
-Ko-fi link:
-
-https://ko-fi.com/s/4a079bdd68
+Current status: temporarily unpublished until a stable payment route is confirmed.
 
 ## Safety Boundary
 
@@ -84,4 +84,4 @@ This repo does not guarantee security, bug-free software, or production-ready au
 
 ## License
 
-Content in this public repo is shared for learning and evaluation. Do not redistribute the paid pack files unless you have permission.
+Content in this public repo is shared for learning and evaluation. Do not redistribute the full pack files unless you have permission.

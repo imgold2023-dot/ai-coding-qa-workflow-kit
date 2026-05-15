@@ -9,12 +9,14 @@
 免费资源：
 
 - [AI 编程工具安全门槛清单](./AI-Coding-Tool-Safety-Gate-Checklist.zh-CN.md)
-- [在 Ko-fi 免费领取清单](https://ko-fi.com/s/1ff86f85f3)
 
 预览：
 
 - [PRD to Playwright QA Starter Pack 预览](./prd-to-playwright-preview.zh-CN.md)
-- [获取完整 PRD to Playwright QA Starter Pack](https://ko-fi.com/s/4a079bdd68)
+
+状态：
+
+- 完整包暂时不可购买，收款通道调整完成后再重新开放。
 
 ## 为什么做这个
 
@@ -61,7 +63,7 @@ AI 编程工具可以很快写 PRD、测试用例和 Playwright 脚本。
 - `Study only`
 - `Reject`
 
-## 付费包
+## 完整包
 
 `PRD to Playwright QA Starter Pack` 包含：
 
@@ -70,9 +72,7 @@ AI 编程工具可以很快写 PRD、测试用例和 Playwright 脚本。
 - 1 个虚构 SaaS 功能完整示例
 - 英文和简体中文 README
 
-Ko-fi 链接：
-
-https://ko-fi.com/s/4a079bdd68
+当前状态：暂时下架，等待稳定收款通道确认后重新开放。
 
 ## 安全边界
 

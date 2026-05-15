@@ -1,6 +1,6 @@
 # Preview: PRD to Playwright QA Starter Pack
 
-The paid pack is a sequenced AI workflow for turning rough feature ideas into QA-ready product work.
+The full pack is a sequenced AI workflow for turning rough feature ideas into QA-ready product work.
 
 ## Sequence
 
@@ -50,6 +50,4 @@ Rules:
 
 Use dummy data first. Do not paste real customer data, production tokens, cookies, browser profiles, bank details, payment account credentials, or sensitive information into any AI tool.
 
-Ko-fi link:
-
-https://ko-fi.com/s/4a079bdd68
+Current status: the full pack is temporarily unavailable while the payment route is being updated.
