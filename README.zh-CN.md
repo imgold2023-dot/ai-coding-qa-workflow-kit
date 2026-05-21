@@ -9,14 +9,23 @@
 免费资源：
 
 - [AI 编程工具安全门槛清单](./AI-Coding-Tool-Safety-Gate-Checklist.zh-CN.md)
+- [英文清单](./AI-Coding-Tool-Safety-Gate-Checklist.md)
 
 预览：
 
 - [PRD to Playwright QA Starter Pack 预览](./prd-to-playwright-preview.zh-CN.md)
+- [英文预览](./prd-to-playwright-preview.md)
 
 状态：
 
 - 完整包暂时不可购买，收款通道调整完成后再重新开放。
+
+## 这个仓库能帮你做什么
+
+- 在安装或运行 AI 编程工具、agent workflow、MCP server、自动化 repo 前，先判断是否适合试用。
+- 在工具接触真实项目数据前，判断它应该是 `Use`、`Use with isolation`、`Study only` 还是 `Reject`。
+- 在让 AI 写测试代码前，先把功能想法拆成验收标准、QA 风险和 Playwright 自动化计划。
+- 避免把生产凭证、客户数据、cookie、支付账号和敏感文件放进 AI 辅助工作流。
 
 ## 为什么做这个
 
@@ -55,6 +64,8 @@ AI 编程工具可以很快写 PRD、测试用例和 Playwright 脚本。
 - MCP server
 - 浏览器自动化脚本
 - 第三方模板
+
+这份清单是一个 10 分钟的第一道门槛。它不能替代安全审查，但可以帮你在用假数据试跑前，先避开明显风险。
 
 判断标签：
 

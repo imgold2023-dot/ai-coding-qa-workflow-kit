@@ -9,14 +9,23 @@ This repo helps you review AI coding tools safely and structure a rough feature 
 Free resource:
 
 - [AI Coding Tool Safety Gate Checklist](./AI-Coding-Tool-Safety-Gate-Checklist.md)
+- [Simplified Chinese checklist](./AI-Coding-Tool-Safety-Gate-Checklist.zh-CN.md)
 
 Preview:
 
 - [PRD to Playwright QA Starter Pack preview](./prd-to-playwright-preview.md)
+- [Simplified Chinese preview](./prd-to-playwright-preview.zh-CN.md)
 
 Status:
 
 - The full pack is temporarily unavailable while the payment route is being updated.
+
+## What You Can Do With This Repo
+
+- Review whether an AI coding tool, agent workflow, MCP server, or automation repo is safe enough to test.
+- Decide whether to `Use`, `Use with isolation`, `Study only`, or `Reject` a tool before it touches real project data.
+- Structure a feature idea into acceptance criteria, QA risks, and a Playwright automation plan before asking AI to write test code.
+- Keep production credentials, customer data, cookies, payment accounts, and sensitive files out of AI-assisted workflows.
 
 ## Why This Exists
 
@@ -55,6 +64,8 @@ Use the checklist before you install, run, connect, or trust:
 - MCP servers
 - browser automation scripts
 - third-party templates
+
+The checklist is designed as a 10-minute first gate. It does not replace a security review, but it helps you avoid obvious risks before trying a tool with dummy data.
 
 Decision labels:
 
